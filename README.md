@@ -13,10 +13,10 @@ The JS sitemap also provides various configuration options that you can use to c
 =============================================================
 
 Panduan singkat:
-Buat halaman baru di draft.blogger.com
-buat halaman baru dengan nama Sitemap
-Kemudian salin semua kode halaman peta situs dan terbitkan
-Selesai
+1. Buat halaman baru di draft.blogger.com
+2. buat halaman baru dengan nama Sitemap
+3. Kemudian salin semua kode halaman peta situs dan terbitkan
+4. Selesai
 
 Sitemap JS adalah sebuah library JavaScript yang dapat Anda gunakan untuk membuat sitemap di dalam aplikasi web atau situs web Anda. Sitemap JS memungkinkan Anda untuk menampilkan daftar dari semua halaman yang ada di situs web Anda dalam bentuk struktur yang terorganisir.
 
