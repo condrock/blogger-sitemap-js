@@ -1,6 +1,6 @@
 =============================================================
 
-*The file named [sitemap page] is what you put on the blogger page, create it with the title Sitemap.
+*The file you are using is a file named [sitemap page]. Put it on a blogger page, not a blogger post. Then create it with the title Sitemap.
 
 Short guide:
 1. Create a new page at draft.blogger.com
@@ -14,7 +14,7 @@ The JS sitemap also provides various configuration options that you can use to c
 
 =============================================================
 
-*File yang bernama [sitemap page] adalah yang Anda letakan pada halaman blogger, buat dengan judul Daftar Isi atau Sitemap.
+*File yang Anda gunakan adalah file yang bernama [sitemap page]. Letakan di halaman blogger, bukan postingan blogger. Lalu buat dengan judul Daftar Isi atau Sitemap.
 
 Panduan singkat:
 1. Buat halaman baru di draft.blogger.com
