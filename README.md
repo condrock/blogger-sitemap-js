@@ -1,5 +1,7 @@
 =============================================================
 
+*The file named [sitemap page] is what you put on the blogger page, create it with the title Sitemap.
+
 Short guide:
 1. Create a new page at draft.blogger.com
 2. create a new page with the name Sitemap
@@ -11,6 +13,8 @@ A JS sitemap is a JavaScript library that you can use to create a sitemap within
 The JS sitemap also provides various configuration options that you can use to customize the appearance and functionality of the sitemap you create. You can add additional information such as title, description and links to each page in your website to create a more informative and useful sitemap for your website visitors.
 
 =============================================================
+
+*File yang bernama [sitemap page] adalah yang Anda letakan pada halaman blogger, buat dengan judul Daftar Isi atau Sitemap.
 
 Panduan singkat:
 1. Buat halaman baru di draft.blogger.com
