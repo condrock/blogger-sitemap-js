@@ -1,4 +1,4 @@
-=============================================================
+==============================================================
 
 *The file you are using is a file named [sitemap page]. Put it on a blogger page, not a blogger post. Then create it with the title Sitemap.
 
@@ -12,7 +12,7 @@ A JS sitemap is a JavaScript library that you can use to create a sitemap within
 
 The JS sitemap also provides various configuration options that you can use to customize the appearance and functionality of the sitemap you create. You can add additional information such as title, description and links to each page in your website to create a more informative and useful sitemap for your website visitors.
 
-=============================================================
+==============================================================
 
 *File yang Anda gunakan adalah file yang bernama [sitemap page]. Letakan di halaman blogger, bukan postingan blogger. Lalu buat dengan judul Daftar Isi atau Sitemap.
 
@@ -26,4 +26,4 @@ Sitemap JS adalah sebuah library JavaScript yang dapat Anda gunakan untuk membua
 
 Sitemap JS juga menyediakan berbagai macam opsi konfigurasi yang dapat Anda gunakan untuk menyesuaikan penampilan dan fungsi dari sitemap yang Anda buat. Anda dapat menambahkan informasi tambahan seperti judul, deskripsi, dan tautan ke setiap halaman dalam situs web Anda untuk membuat sitemap yang lebih informatif dan berguna bagi pengunjung situs web Anda.
 
-=============================================================
+==============================================================
